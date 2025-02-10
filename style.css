@@ -1,0 +1,3 @@
+.container { max-width: 600px; margin: auto; padding: 20px; }
+.time-slot { padding: 10px; margin: 5px; background: #4CAF50; color: white; cursor: pointer; }
+.booked { background: #f44336; }
